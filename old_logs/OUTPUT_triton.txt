@@ -1,0 +1,253 @@
+starting
+size pool  90
+starting
+9.0
+adding operator 14 with gradient 8.021979051693541e-17 
+adding operator 17 with gradient 8.781712018843485e-17 
+adding operator 12 with gradient 1.9420422013555856e-16 
+9.0 9.0
+[[9.]]
+adding operator 88 with gradient 9.814479703793748e-16 
+adding operator 42 with gradient 2.267936061173259e-09 
+adding operator 43 with gradient 2.267936061173259e-09 
+8.478465 8.478465
+[[8.478465]]
+adding operator 79 with gradient 0.4282478094100952 
+adding operator 42 with gradient 0.6111606955528259 
+adding operator 43 with gradient 0.6294870376586914 
+8.1928215 8.1928215
+[[8.1928215]]
+adding operator 12 with gradient 0.15705624222755432 
+adding operator 79 with gradient 0.24955135583877563 
+adding operator 78 with gradient 0.9594807028770447 
+7.9564214 7.9564214
+[[7.9564214]]
+adding operator 78 with gradient 0.11459127068519592 
+adding operator 43 with gradient 0.115025594830513 
+adding operator 79 with gradient 0.22033224999904633 
+7.6034145 7.6034145
+[[7.6034145]]
+adding operator 79 with gradient 0.11601007729768753 
+adding operator 88 with gradient 0.29929056763648987 
+adding operator 48 with gradient 0.3198755979537964 
+7.299519 7.299519
+[[7.299519]]
+adding operator 48 with gradient 0.1525488793849945 
+adding operator 79 with gradient 0.16403833031654358 
+adding operator 42 with gradient 0.16886445879936218 
+7.239591 7.239591
+[[7.239591]]
+adding operator 42 with gradient 0.06411166489124298 
+adding operator 79 with gradient 0.06946446001529694 
+adding operator 78 with gradient 0.09428481757640839 
+7.2390437 7.2382545
+[[7.2390437]]
+adding operator 42 with gradient 0.06978297978639603 
+adding operator 79 with gradient 0.1318662166595459 
+adding operator 78 with gradient 0.13756532967090607 
+7.2396708 7.2382545
+[[7.2396708]]
+adding operator 42 with gradient 0.08963045477867126 
+adding operator 79 with gradient 0.17941832542419434 
+adding operator 78 with gradient 0.1857406198978424 
+7.2411838 7.2382545
+[[7.2411838]]
+adding operator 42 with gradient 0.12783613801002502 
+adding operator 79 with gradient 0.2559663653373718 
+adding operator 78 with gradient 0.26345211267471313 
+7.2425437 7.2382545
+[[7.2425437]]
+adding operator 42 with gradient 0.1629296988248825 
+adding operator 79 with gradient 0.3201036751270294 
+adding operator 78 with gradient 0.3306726813316345 
+7.24398 7.2382545
+[[7.24398]]
+adding operator 42 with gradient 0.1823859065771103 
+adding operator 79 with gradient 0.3621155321598053 
+adding operator 78 with gradient 0.373512864112854 
+7.2458515 7.2382545
+[[7.2458515]]
+adding operator 42 with gradient 0.21546140313148499 
+adding operator 79 with gradient 0.4218193292617798 
+adding operator 78 with gradient 0.43785443902015686 
+7.247623 7.2382545
+[[7.247623]]
+adding operator 42 with gradient 0.23220254480838776 
+adding operator 79 with gradient 0.45350369811058044 
+adding operator 78 with gradient 0.4722195267677307 
+7.2483206 7.2382545
+[[7.2483206]]
+adding operator 42 with gradient 0.24393686652183533 
+adding operator 79 with gradient 0.48320043087005615 
+adding operator 78 with gradient 0.5002979040145874 
+7.2516775 7.2382545
+[[7.2516775]]
+adding operator 42 with gradient 0.2786391079425812 
+adding operator 79 with gradient 0.5409974455833435 
+adding operator 78 with gradient 0.5650970935821533 
+7.254364 7.2382545
+[[7.254364]]
+adding operator 42 with gradient 0.2852582037448883 
+adding operator 78 with gradient 0.6028479337692261 
+adding operator 79 with gradient 0.6046039462089539 
+7.25674 7.2382545
+[[7.25674]]
+adding operator 42 with gradient 0.3191251754760742 
+adding operator 79 with gradient 0.6467652320861816 
+adding operator 78 with gradient 0.6503958106040955 
+7.2603083 7.2382545
+[[7.2603083]]
+adding operator 42 with gradient 0.3436965346336365 
+adding operator 79 with gradient 0.7159231901168823 
+adding operator 78 with gradient 0.7239978313446045 
+7.2608066 7.2382545
+[[7.2608066]]
+adding operator 42 with gradient 0.3529791533946991 
+adding operator 79 with gradient 0.7135464549064636 
+adding operator 78 with gradient 0.72304368019104 
+7.26666 7.2382545
+[[7.26666]]
+adding operator 42 with gradient 0.3856159746646881 
+adding operator 79 with gradient 0.8101040124893188 
+adding operator 78 with gradient 0.8227978348731995 
+7.2648444 7.2382545
+[[7.2648444]]
+adding operator 42 with gradient 0.37942612171173096 
+adding operator 79 with gradient 0.767888069152832 
+adding operator 78 with gradient 0.7823129296302795 
+7.2738695 7.2382545
+[[7.2738695]]
+adding operator 42 with gradient 0.4228334426879883 
+adding operator 79 with gradient 0.9010113477706909 
+adding operator 78 with gradient 0.9168438911437988 
+7.268555 7.2382545
+[[7.268555]]
+adding operator 42 with gradient 0.39453133940696716 
+adding operator 79 with gradient 0.8090108036994934 
+adding operator 78 with gradient 0.8242918848991394 
+7.2819734 7.2382545
+[[7.2819734]]
+adding operator 42 with gradient 0.4552995562553406 
+adding operator 79 with gradient 0.9897466897964478 
+adding operator 78 with gradient 1.0070375204086304 
+7.2715693 7.2382545
+[[7.2715693]]
+adding operator 42 with gradient 0.3944866955280304 
+adding operator 79 with gradient 0.8365768194198608 
+adding operator 78 with gradient 0.8456447124481201 
+7.290973 7.2382545
+[[7.290973]]
+adding operator 42 with gradient 0.48296934366226196 
+adding operator 79 with gradient 1.0767918825149536 
+adding operator 78 with gradient 1.0940983295440674 
+7.273312 7.2382545
+[[7.273312]]
+adding operator 42 with gradient 0.3790990710258484 
+adding operator 79 with gradient 0.834186315536499 
+adding operator 78 with gradient 0.8368993401527405 
+7.301913 7.2382545
+[[7.301913]]
+adding operator 42 with gradient 0.5225039124488831 
+adding operator 79 with gradient 1.1496671438217163 
+adding operator 78 with gradient 1.1845097541809082 
+7.2720995 7.2382545
+[[7.2720995]]
+adding operator 42 with gradient 0.34024661779403687 
+adding operator 78 with gradient 0.7739982008934021 
+adding operator 79 with gradient 0.7776132822036743 
+7.3136115 7.2382545
+[[7.3136115]]
+adding operator 42 with gradient 0.5526792407035828 
+adding operator 79 with gradient 1.2311044931411743 
+adding operator 78 with gradient 1.2757320404052734 
+7.2670627 7.2382545
+[[7.2670627]]
+adding operator 42 with gradient 0.2756027281284332 
+adding operator 78 with gradient 0.6408156752586365 
+adding operator 79 with gradient 0.6538649201393127 
+7.3257065 7.2382545
+[[7.3257065]]
+adding operator 12 with gradient 0.5806127190589905 
+adding operator 79 with gradient 1.3040235042572021 
+adding operator 78 with gradient 1.3593958616256714 
+7.2602077 7.2382545
+[[7.2602077]]
+adding operator 43 with gradient 0.18991202116012573 
+adding operator 78 with gradient 0.43653348088264465 
+adding operator 79 with gradient 0.4676104485988617 
+7.3418303 7.2382545
+[[7.3418303]]
+adding operator 12 with gradient 0.6347491145133972 
+adding operator 79 with gradient 1.4147261381149292 
+adding operator 78 with gradient 1.4728339910507202 
+7.257275 7.2382545
+[[7.257275]]
+adding operator 43 with gradient 0.1451164036989212 
+adding operator 78 with gradient 0.2907050549983978 
+adding operator 79 with gradient 0.3285802900791168 
+7.3456993 7.2382545
+[[7.3456993]]
+adding operator 12 with gradient 0.6566379070281982 
+adding operator 79 with gradient 1.433676838874817 
+adding operator 78 with gradient 1.4871479272842407 
+7.2567377 7.2382545
+[[7.2567377]]
+adding operator 43 with gradient 0.09797562658786774 
+adding operator 88 with gradient 0.10851180553436279 
+adding operator 79 with gradient 0.12305714935064316 
+7.3381195 7.2382545
+[[7.3381195]]
+adding operator 12 with gradient 0.6440502405166626 
+adding operator 79 with gradient 1.399598240852356 
+adding operator 78 with gradient 1.4169358015060425 
+7.259105 7.2382545
+[[7.259105]]
+adding operator 43 with gradient 0.1501573622226715 
+adding operator 78 with gradient 0.15870772302150726 
+adding operator 79 with gradient 0.2062980681657791 
+7.2731347 7.2382545
+[[7.2731347]]
+adding operator 85 with gradient 0.06224802881479263 
+adding operator 12 with gradient 0.09521577507257462 
+adding operator 48 with gradient 0.10852497816085815 
+7.240616 7.2382545
+[[7.240616]]
+adding operator 42 with gradient 0.19872567057609558 
+adding operator 79 with gradient 0.32313817739486694 
+adding operator 78 with gradient 0.3470565974712372 
+7.2043486 7.2043486
+[[7.2043486]]
+adding operator 79 with gradient 0.22081947326660156 
+adding operator 48 with gradient 0.30695027112960815 
+adding operator 88 with gradient 0.3786419630050659 
+6.80708 6.80708
+[[6.80708]]
+adding operator 78 with gradient 0.20837171375751495 
+adding operator 79 with gradient 0.29348742961883545 
+adding operator 88 with gradient 0.30518653988838196 
+6.110128 6.110128
+[[6.110128]]
+adding operator 79 with gradient 0.4089401662349701 
+adding operator 42 with gradient 0.4185001254081726 
+adding operator 82 with gradient 0.4332830011844635 
+5.378179 5.378179
+[[5.378179]]
+adding operator 79 with gradient 0.31370750069618225 
+adding operator 42 with gradient 0.3611527681350708 
+adding operator 85 with gradient 0.43050628900527954 
+5.2758403 5.274362
+[[5.2758403]]
+adding operator 82 with gradient 0.09585917741060257 
+adding operator 43 with gradient 0.10711393505334854 
+adding operator 78 with gradient 0.10853435844182968 
+5.2791533 5.267873
+[[5.2791533]]
+adding operator 85 with gradient 0.24192528426647186 
+adding operator 43 with gradient 0.2543746829032898 
+adding operator 79 with gradient 0.3432472050189972 
+5.2523184 5.2523184
+[[5.2523184]]
+adding operator 88 with gradient 0.04623408243060112 
+adding operator 9 with gradient 0.050065986812114716 
+adding operator 85 with gradient 0.17310680449008942 
+5.242007 5.2411237

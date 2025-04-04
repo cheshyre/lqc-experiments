@@ -1,0 +1,90 @@
+starting
+size pool  164
+starting
+adding operator 158 with gradient 4.0 
+adding operator 159 with gradient 4.0 
+adding operator 160 with gradient 4.0 
+7.2104387 7.2104387
+adding operator 93 with gradient 6.9342217445373535 
+adding operator 106 with gradient 7.088754653930664 
+adding operator 159 with gradient 7.130640983581543 
+1.7398534 1.7398534
+adding operator 147 with gradient 2.5294554233551025 
+adding operator 161 with gradient 2.5294554233551025 
+adding operator 107 with gradient 3.1575822830200195 
+0.67981774 0.67981774
+adding operator 98 with gradient 1.2818949222564697 
+adding operator 101 with gradient 2.5934131145477295 
+adding operator 146 with gradient 3.042691946029663 
+0.2579017 0.2579017
+adding operator 109 with gradient 1.2337298393249512 
+adding operator 99 with gradient 1.2459522485733032 
+adding operator 108 with gradient 1.282784342765808 
+-0.0017332371 -0.0017332371
+adding operator 26 with gradient 0.9102921485900879 
+adding operator 105 with gradient 1.1379568576812744 
+adding operator 104 with gradient 1.1934964656829834 
+-0.2248715 -0.22488587
+adding operator 103 with gradient 0.5836655497550964 
+adding operator 102 with gradient 0.6130173206329346 
+adding operator 10 with gradient 0.8281471729278564 
+-0.36028984 -0.36028984
+adding operator 149 with gradient 0.5674538016319275 
+adding operator 148 with gradient 0.5980774760246277 
+adding operator 144 with gradient 0.6148345470428467 
+-0.801828 -0.801828
+adding operator 45 with gradient 0.5507986545562744 
+adding operator 19 with gradient 0.5550930500030518 
+adding operator 145 with gradient 0.6008445620536804 
+-0.99923164 -0.99923164
+adding operator 53 with gradient 0.5097674131393433 
+adding operator 44 with gradient 0.5632559657096863 
+adding operator 4 with gradient 0.587043821811676 
+-1.1540698 -1.1540698
+adding operator 163 with gradient 0.47684940695762634 
+adding operator 157 with gradient 0.5183429718017578 
+adding operator 52 with gradient 0.5844112634658813 
+-1.2873259 -1.2873259
+adding operator 51 with gradient 0.5073416829109192 
+adding operator 143 with gradient 0.5377614498138428 
+adding operator 156 with gradient 0.6271044015884399 
+-1.6812767 -1.6812767
+adding operator 48 with gradient 0.4032844603061676 
+adding operator 152 with gradient 0.422586590051651 
+adding operator 142 with gradient 0.4233282804489136 
+-1.9491134 -1.9491134
+adding operator 95 with gradient 0.39206990599632263 
+adding operator 15 with gradient 0.39720699191093445 
+adding operator 25 with gradient 0.42249026894569397 
+-2.196291 -2.196291
+adding operator 4 with gradient 0.2758130133152008 
+adding operator 54 with gradient 0.30508702993392944 
+adding operator 30 with gradient 0.32002249360084534 
+-2.3147132 -2.3147132
+adding operator 111 with gradient 0.22956256568431854 
+adding operator 35 with gradient 0.2469668686389923 
+adding operator 132 with gradient 0.24771612882614136 
+-2.3966627 -2.3966627
+adding operator 127 with gradient 0.19508206844329834 
+adding operator 91 with gradient 0.20182275772094727 
+adding operator 117 with gradient 0.20900392532348633 
+-2.458265 -2.458265
+adding operator 151 with gradient 0.11284409463405609 
+adding operator 44 with gradient 0.11356988549232483 
+adding operator 74 with gradient 0.11990053951740265 
+-2.4785755 -2.4785755
+adding operator 46 with gradient 0.05075304955244064 
+adding operator 55 with gradient 0.05288670212030411 
+adding operator 128 with gradient 0.0575750470161438 
+-2.4781709 -2.4785755
+adding operator 135 with gradient 0.0535806342959404 
+adding operator 141 with gradient 0.06131844222545624 
+adding operator 159 with gradient 0.06714089959859848 
+-2.4818256 -2.481893
+adding operator 143 with gradient 0.038448840379714966 
+adding operator 157 with gradient 0.042938269674777985 
+adding operator 141 with gradient 0.050018735229969025 
+-2.4821982 -2.4825594
+adding operator 149 with gradient 0.03517843037843704 
+adding operator 148 with gradient 0.03538524731993675 
+adding operator 141 with gradient 0.043801501393318176 
