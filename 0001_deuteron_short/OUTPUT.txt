@@ -1,0 +1,98 @@
+starting
+size pool  164
+starting
+adding operator 158 with gradient 4.0 
+adding operator 159 with gradient 4.0 
+adding operator 160 with gradient 4.0 
+10.626705 10.626705
+adding operator 158 with gradient 5.598735809326172 
+adding operator 106 with gradient 5.609529495239258 
+adding operator 159 with gradient 5.669577121734619 
+6.835146 6.835146
+adding operator 158 with gradient 6.707123756408691 
+adding operator 106 with gradient 7.929561614990234 
+adding operator 159 with gradient 8.075906753540039 
+2.3274612 2.3274612
+adding operator 159 with gradient 2.8897271156311035 
+adding operator 93 with gradient 3.230842351913452 
+adding operator 106 with gradient 4.208528518676758 
+1.476225 1.476225
+adding operator 146 with gradient 2.868523359298706 
+adding operator 147 with gradient 3.0787951946258545 
+adding operator 161 with gradient 3.0787951946258545 
+0.720265 0.720265
+adding operator 161 with gradient 1.6362154483795166 
+adding operator 146 with gradient 1.65608811378479 
+adding operator 111 with gradient 1.6690154075622559 
+0.3607665 0.3581155
+adding operator 109 with gradient 1.2381418943405151 
+adding operator 108 with gradient 1.378358244895935 
+adding operator 99 with gradient 1.3940093517303467 
+0.1723276 0.1706901
+adding operator 104 with gradient 1.1340651512145996 
+adding operator 105 with gradient 1.1906538009643555 
+adding operator 98 with gradient 1.2126030921936035 
+0.023558453 0.023526771
+adding operator 102 with gradient 0.6626617312431335 
+adding operator 10 with gradient 1.0302009582519531 
+adding operator 26 with gradient 1.0436259508132935 
+-0.1551168 -0.1551168
+adding operator 103 with gradient 0.5966664552688599 
+adding operator 10 with gradient 0.6657846570014954 
+adding operator 26 with gradient 0.6976037621498108 
+-0.27795717 -0.27939895
+adding operator 162 with gradient 0.5247732996940613 
+adding operator 148 with gradient 0.5251419544219971 
+adding operator 144 with gradient 0.5588048100471497 
+-0.41463742 -0.41463742
+adding operator 163 with gradient 0.5774322152137756 
+adding operator 149 with gradient 0.6143189072608948 
+adding operator 145 with gradient 0.6161620616912842 
+-0.68829143 -0.68829143
+adding operator 155 with gradient 0.5603327751159668 
+adding operator 149 with gradient 0.5857617259025574 
+adding operator 145 with gradient 0.6097533702850342 
+-0.9051873 -0.9051873
+adding operator 107 with gradient 0.5163136720657349 
+adding operator 159 with gradient 0.540343701839447 
+adding operator 160 with gradient 0.6206701993942261 
+-1.0498317 -1.0498317
+adding operator 19 with gradient 0.502776563167572 
+adding operator 154 with gradient 0.5279298424720764 
+adding operator 101 with gradient 0.5321547985076904 
+-1.2461034 -1.2461034
+adding operator 4 with gradient 0.4274982810020447 
+adding operator 160 with gradient 0.4284297823905945 
+adding operator 25 with gradient 0.5099505186080933 
+-1.4179654 -1.4179654
+adding operator 44 with gradient 0.4404613673686981 
+adding operator 134 with gradient 0.4438921809196472 
+adding operator 152 with gradient 0.4534417688846588 
+-1.6066979 -1.6066979
+adding operator 131 with gradient 0.36713919043540955 
+adding operator 152 with gradient 0.5217403769493103 
+adding operator 153 with gradient 0.5255699157714844 
+-1.8104026 -1.8104026
+adding operator 135 with gradient 0.2898634672164917 
+adding operator 151 with gradient 0.3362632393836975 
+adding operator 153 with gradient 0.5206595063209534 
+-1.9721125 -1.9721125
+adding operator 138 with gradient 0.3065936267375946 
+adding operator 17 with gradient 0.31120261549949646 
+adding operator 15 with gradient 0.3340657651424408 
+-2.0990043 -2.0990043
+adding operator 140 with gradient 0.3001026511192322 
+adding operator 144 with gradient 0.30838069319725037 
+adding operator 85 with gradient 0.32454538345336914 
+-2.1913166 -2.1913166
+adding operator 19 with gradient 0.2983718812465668 
+adding operator 12 with gradient 0.30377650260925293 
+adding operator 10 with gradient 0.3178744912147522 
+-2.2844288 -2.2844288
+adding operator 57 with gradient 0.2395487129688263 
+adding operator 30 with gradient 0.2628088891506195 
+adding operator 159 with gradient 0.31850865483283997 
+-2.3624487 -2.3624487
+adding operator 77 with gradient 0.17202316224575043 
+adding operator 90 with gradient 0.17955824732780457 
+adding operator 141 with gradient 0.23962701857089996 
