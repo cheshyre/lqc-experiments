@@ -41,8 +41,8 @@ jn = read_job_num_and_increment()
 
 directory = f"{jn:04d}_{system}_{length}"
 
-print(f"mkdir -p {directory}/results")
-print(f"touch {directory}/results/.keep")
+print(f"mkdir -p {directory}/results/nuclear")
+print(f"touch {directory}/results/nuclear/.keep")
 print(f"cp -r operatorB {directory}")
 print(f"cp papenbrock*.py {directory}")
 print(
