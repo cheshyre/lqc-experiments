@@ -1,0 +1,467 @@
+starting
+size pool  90
+starting
+-9.0
+adding operator 87 with gradient 4.0 
+adding operator 88 with gradient 4.0 
+adding operator 89 with gradient 4.0 
+-9.649204 -9.649204
+[[-9.649204]]
+adding operator 84 with gradient 3.9650020599365234 
+adding operator 85 with gradient 3.9650020599365234 
+adding operator 86 with gradient 3.9650020599365234 
+-10.306159 -10.306159
+[[-10.306159]]
+adding operator 75 with gradient 3.920849561691284 
+adding operator 76 with gradient 3.920849561691284 
+adding operator 77 with gradient 3.920849561691284 
+-10.955908 -10.955908
+[[-10.955908]]
+adding operator 75 with gradient 0.6184965372085571 
+adding operator 76 with gradient 0.6184965372085571 
+adding operator 77 with gradient 0.6184965372085571 
+-10.973886 -10.973886
+[[-10.973886]]
+adding operator 15 with gradient 0.40206557512283325 
+adding operator 16 with gradient 0.40206557512283325 
+adding operator 17 with gradient 0.40206557512283325 
+-10.976116 -10.981123
+[[-10.976116]]
+adding operator 75 with gradient 0.30506083369255066 
+adding operator 76 with gradient 0.30517569184303284 
+adding operator 77 with gradient 0.3052907884120941 
+-10.979087 -10.981123
+[[-10.979087]]
+adding operator 75 with gradient 0.20448991656303406 
+adding operator 76 with gradient 0.20449693500995636 
+adding operator 77 with gradient 0.20451515913009644 
+-10.972259 -10.981123
+[[-10.972259]]
+adding operator 77 with gradient 0.4442044794559479 
+adding operator 76 with gradient 0.44464826583862305 
+adding operator 75 with gradient 0.4451095461845398 
+-10.974011 -10.981123
+[[-10.974011]]
+adding operator 75 with gradient 0.3951268792152405 
+adding operator 76 with gradient 0.3953758180141449 
+adding operator 77 with gradient 0.39563265442848206 
+-10.967247 -10.981123
+[[-10.967247]]
+adding operator 77 with gradient 0.5524441003799438 
+adding operator 76 with gradient 0.5527428984642029 
+adding operator 75 with gradient 0.5529630184173584 
+-10.963248 -10.981123
+[[-10.963248]]
+adding operator 75 with gradient 0.6334696412086487 
+adding operator 76 with gradient 0.633638858795166 
+adding operator 77 with gradient 0.63386470079422 
+-10.963423 -10.981123
+[[-10.963423]]
+adding operator 77 with gradient 0.6193345189094543 
+adding operator 76 with gradient 0.619565486907959 
+adding operator 75 with gradient 0.6197945475578308 
+-10.942615 -10.981123
+[[-10.942615]]
+adding operator 75 with gradient 0.9356695413589478 
+adding operator 76 with gradient 0.9358519315719604 
+adding operator 77 with gradient 0.9360462427139282 
+-10.960475 -10.981123
+[[-10.960475]]
+adding operator 77 with gradient 0.6631011366844177 
+adding operator 76 with gradient 0.6631837487220764 
+adding operator 75 with gradient 0.6632137894630432 
+-10.90953 -10.981123
+[[-10.90953]]
+adding operator 75 with gradient 1.2809110879898071 
+adding operator 76 with gradient 1.2809590101242065 
+adding operator 77 with gradient 1.2810425758361816 
+-10.955549 -10.981123
+[[-10.955549]]
+adding operator 77 with gradient 0.7335208654403687 
+adding operator 76 with gradient 0.7335497140884399 
+adding operator 75 with gradient 0.7336521744728088 
+-10.870354 -10.981123
+[[-10.870354]]
+adding operator 75 with gradient 1.5975420475006104 
+adding operator 76 with gradient 1.597595453262329 
+adding operator 77 with gradient 1.5976192951202393 
+-10.946951 -10.981123
+[[-10.946951]]
+adding operator 75 with gradient 0.8454354405403137 
+adding operator 76 with gradient 0.84559565782547 
+adding operator 77 with gradient 0.8456618785858154 
+-10.831223 -10.981123
+[[-10.831223]]
+adding operator 75 with gradient 1.861602783203125 
+adding operator 76 with gradient 1.8616122007369995 
+adding operator 77 with gradient 1.861639380455017 
+-10.936197 -10.981123
+[[-10.936197]]
+adding operator 75 with gradient 0.9664372205734253 
+adding operator 76 with gradient 0.9665524363517761 
+adding operator 77 with gradient 0.9667211771011353 
+-10.788183 -10.981123
+[[-10.788183]]
+adding operator 76 with gradient 2.114387035369873 
+adding operator 75 with gradient 2.1144018173217773 
+adding operator 77 with gradient 2.1144051551818848 
+-10.924195 -10.981123
+[[-10.924195]]
+adding operator 75 with gradient 1.0874289274215698 
+adding operator 76 with gradient 1.0877903699874878 
+adding operator 77 with gradient 1.0882279872894287 
+-10.739458 -10.981123
+[[-10.739458]]
+adding operator 77 with gradient 2.3685920238494873 
+adding operator 76 with gradient 2.368978977203369 
+adding operator 75 with gradient 2.369209051132202 
+-10.911003 -10.981123
+[[-10.911003]]
+adding operator 75 with gradient 1.2133102416992188 
+adding operator 76 with gradient 1.213464379310608 
+adding operator 77 with gradient 1.213469386100769 
+-10.6853695 -10.981123
+[[-10.6853695]]
+adding operator 77 with gradient 2.6227807998657227 
+adding operator 76 with gradient 2.6229264736175537 
+adding operator 75 with gradient 2.6232941150665283 
+-10.895829 -10.981123
+[[-10.895829]]
+adding operator 76 with gradient 1.3439877033233643 
+adding operator 77 with gradient 1.3440765142440796 
+adding operator 75 with gradient 1.3441249132156372 
+-10.626775 -10.981123
+[[-10.626775]]
+adding operator 75 with gradient 2.873096227645874 
+adding operator 77 with gradient 2.873271942138672 
+adding operator 76 with gradient 2.873351812362671 
+-10.877774 -10.981123
+[[-10.877774]]
+adding operator 75 with gradient 1.4791804552078247 
+adding operator 76 with gradient 1.4796735048294067 
+adding operator 77 with gradient 1.4797537326812744 
+-10.575769 -10.981123
+[[-10.575769]]
+adding operator 77 with gradient 3.073798418045044 
+adding operator 76 with gradient 3.074268341064453 
+adding operator 75 with gradient 3.0756330490112305 
+-10.856699 -10.981123
+[[-10.856699]]
+adding operator 77 with gradient 1.6159095764160156 
+adding operator 76 with gradient 1.616507887840271 
+adding operator 75 with gradient 1.618532657623291 
+-10.508156 -10.981123
+[[-10.508156]]
+adding operator 75 with gradient 3.3272721767425537 
+adding operator 76 with gradient 3.3286421298980713 
+adding operator 77 with gradient 3.3292219638824463 
+-10.832239 -10.981123
+[[-10.832239]]
+adding operator 75 with gradient 1.7635749578475952 
+adding operator 76 with gradient 1.76518714427948 
+adding operator 77 with gradient 1.765990972518921 
+-10.454176 -10.981123
+[[-10.454176]]
+adding operator 77 with gradient 3.511993408203125 
+adding operator 75 with gradient 3.5120885372161865 
+adding operator 76 with gradient 3.51239013671875 
+-10.812028 -10.981123
+[[-10.812028]]
+adding operator 77 with gradient 1.8777161836624146 
+adding operator 76 with gradient 1.8780683279037476 
+adding operator 75 with gradient 1.8787981271743774 
+-10.375512 -10.981123
+[[-10.375512]]
+adding operator 75 with gradient 3.7593472003936768 
+adding operator 76 with gradient 3.767587423324585 
+adding operator 77 with gradient 3.768404006958008 
+-10.785408 -10.981123
+[[-10.785408]]
+adding operator 75 with gradient 2.007411479949951 
+adding operator 76 with gradient 2.017786741256714 
+adding operator 77 with gradient 2.0186707973480225 
+-10.304554 -10.981123
+[[-10.304554]]
+adding operator 76 with gradient 3.97743821144104 
+adding operator 77 with gradient 3.978868007659912 
+adding operator 75 with gradient 3.9854729175567627 
+-10.754512 -10.981123
+[[-10.754512]]
+adding operator 76 with gradient 2.1579806804656982 
+adding operator 77 with gradient 2.159895420074463 
+adding operator 75 with gradient 2.16206431388855 
+-10.217501 -10.981123
+[[-10.217501]]
+adding operator 77 with gradient 4.2287373542785645 
+adding operator 76 with gradient 4.229715347290039 
+adding operator 75 with gradient 4.231201171875 
+-10.720304 -10.981123
+[[-10.720304]]
+adding operator 77 with gradient 2.3046557903289795 
+adding operator 75 with gradient 2.3069961071014404 
+adding operator 76 with gradient 2.3075387477874756 
+-10.1387825 -10.981123
+[[-10.1387825]]
+adding operator 76 with gradient 4.437277793884277 
+adding operator 77 with gradient 4.439092636108398 
+adding operator 75 with gradient 4.449426651000977 
+-10.677137 -10.981123
+[[-10.677137]]
+adding operator 76 with gradient 2.4662363529205322 
+adding operator 77 with gradient 2.470057964324951 
+adding operator 75 with gradient 2.48696231842041 
+-10.067728 -10.981123
+[[-10.067728]]
+adding operator 77 with gradient 4.622048854827881 
+adding operator 76 with gradient 4.6245436668396 
+adding operator 75 with gradient 4.625926971435547 
+-10.633468 -10.981123
+[[-10.633468]]
+adding operator 77 with gradient 2.625514268875122 
+adding operator 76 with gradient 2.630533456802368 
+adding operator 75 with gradient 2.6415977478027344 
+-9.987753 -10.981123
+[[-9.987753]]
+adding operator 75 with gradient 4.8154168128967285 
+adding operator 76 with gradient 4.820735454559326 
+adding operator 77 with gradient 4.823553085327148 
+-10.581956 -10.981123
+[[-10.581956]]
+adding operator 75 with gradient 2.7947001457214355 
+adding operator 76 with gradient 2.8077147006988525 
+adding operator 77 with gradient 2.8140475749969482 
+-9.919683 -10.981123
+[[-9.919683]]
+adding operator 77 with gradient 4.975313186645508 
+adding operator 76 with gradient 4.978451251983643 
+adding operator 75 with gradient 4.985132694244385 
+-10.532155 -10.981123
+[[-10.532155]]
+adding operator 77 with gradient 2.9519267082214355 
+adding operator 76 with gradient 2.959463357925415 
+adding operator 75 with gradient 2.9752132892608643 
+-9.841825 -10.981123
+[[-9.841825]]
+adding operator 75 with gradient 5.149312496185303 
+adding operator 76 with gradient 5.155714511871338 
+adding operator 77 with gradient 5.158843994140625 
+-10.47235 -10.981123
+[[-10.47235]]
+adding operator 75 with gradient 3.123436212539673 
+adding operator 76 with gradient 3.1405112743377686 
+adding operator 77 with gradient 3.148848056793213 
+-9.774186 -10.981123
+[[-9.774186]]
+adding operator 77 with gradient 5.296534538269043 
+adding operator 76 with gradient 5.299244403839111 
+adding operator 75 with gradient 5.3048930168151855 
+-10.410699 -10.981123
+[[-10.410699]]
+adding operator 77 with gradient 3.29494047164917 
+adding operator 76 with gradient 3.3026421070098877 
+adding operator 75 with gradient 3.3187923431396484 
+-9.700643 -10.981123
+[[-9.700643]]
+adding operator 75 with gradient 5.449374198913574 
+adding operator 76 with gradient 5.4530534744262695 
+adding operator 77 with gradient 5.4548468589782715 
+-10.338168 -10.981123
+[[-10.338168]]
+adding operator 75 with gradient 3.4787046909332275 
+adding operator 76 with gradient 3.490311622619629 
+adding operator 77 with gradient 3.496029853820801 
+-9.63594 -10.981123
+[[-9.63594]]
+adding operator 77 with gradient 5.580087184906006 
+adding operator 76 with gradient 5.580807685852051 
+adding operator 75 with gradient 5.582313060760498 
+-10.247367 -10.981123
+[[-10.247367]]
+adding operator 77 with gradient 3.694957733154297 
+adding operator 76 with gradient 3.697252035140991 
+adding operator 75 with gradient 3.7021610736846924 
+-9.626632 -10.981123
+[[-9.626632]]
+adding operator 75 with gradient 5.602639675140381 
+adding operator 76 with gradient 5.602675437927246 
+adding operator 77 with gradient 5.6026930809021 
+-10.179116 -10.981123
+[[-10.179116]]
+adding operator 75 with gradient 3.8399806022644043 
+adding operator 76 with gradient 3.840144157409668 
+adding operator 77 with gradient 3.8402552604675293 
+-9.539089 -10.981123
+[[-9.539089]]
+adding operator 75 with gradient 5.770167827606201 
+adding operator 76 with gradient 5.770181655883789 
+adding operator 77 with gradient 5.770201206207275 
+-10.068951 -10.981123
+[[-10.068951]]
+adding operator 75 with gradient 4.060230255126953 
+adding operator 76 with gradient 4.060390949249268 
+adding operator 77 with gradient 4.060574531555176 
+-9.492867 -10.981123
+[[-9.492867]]
+adding operator 75 with gradient 5.856826305389404 
+adding operator 76 with gradient 5.856847763061523 
+adding operator 77 with gradient 5.856881618499756 
+-9.958885 -10.981123
+[[-9.958885]]
+adding operator 75 with gradient 4.254154205322266 
+adding operator 76 with gradient 4.2542877197265625 
+adding operator 77 with gradient 4.2544779777526855 
+-9.447008 -10.981123
+[[-9.447008]]
+adding operator 75 with gradient 5.940184116363525 
+adding operator 76 with gradient 5.94024658203125 
+adding operator 77 with gradient 5.940332412719727 
+-9.820054 -10.981123
+[[-9.820054]]
+adding operator 75 with gradient 4.483270168304443 
+adding operator 76 with gradient 4.483705520629883 
+adding operator 77 with gradient 4.484257698059082 
+-9.434889 -10.981123
+[[-9.434889]]
+adding operator 75 with gradient 5.960236549377441 
+adding operator 76 with gradient 5.9602556228637695 
+adding operator 77 with gradient 5.9603657722473145 
+-9.632919 -10.981123
+[[-9.632919]]
+adding operator 75 with gradient 4.749996662139893 
+adding operator 76 with gradient 4.750399589538574 
+adding operator 77 with gradient 4.751286029815674 
+-9.446343 -10.981123
+[[-9.446343]]
+adding operator 75 with gradient 5.939693450927734 
+adding operator 76 with gradient 5.939715385437012 
+adding operator 77 with gradient 5.940083980560303 
+-9.31926 -10.981123
+[[-9.31926]]
+adding operator 75 with gradient 5.128035545349121 
+adding operator 76 with gradient 5.128401279449463 
+adding operator 77 with gradient 5.130723476409912 
+-9.610379 -10.981123
+[[-9.610379]]
+adding operator 75 with gradient 5.629068374633789 
+adding operator 76 with gradient 5.62916374206543 
+adding operator 77 with gradient 5.630928993225098 
+-8.890403 -10.981123
+[[-8.890403]]
+adding operator 75 with gradient 5.523375988006592 
+adding operator 76 with gradient 5.524130344390869 
+adding operator 77 with gradient 5.534447193145752 
+-9.865711 -10.981123
+[[-9.865711]]
+adding operator 75 with gradient 5.075677394866943 
+adding operator 76 with gradient 5.076176643371582 
+adding operator 77 with gradient 5.086040019989014 
+-8.37233 -10.981123
+[[-8.37233]]
+adding operator 75 with gradient 5.84175443649292 
+adding operator 76 with gradient 5.843858242034912 
+adding operator 77 with gradient 5.884213447570801 
+-10.254179 -10.981123
+[[-10.254179]]
+adding operator 76 with gradient 4.089208126068115 
+adding operator 75 with gradient 4.124090671539307 
+adding operator 77 with gradient 4.134064674377441 
+-8.343168 -10.981123
+[[-8.343168]]
+adding operator 77 with gradient 5.8495941162109375 
+adding operator 75 with gradient 5.8499908447265625 
+adding operator 76 with gradient 5.898188591003418 
+-10.091365 -10.981123
+[[-10.091365]]
+adding operator 77 with gradient 4.5164618492126465 
+adding operator 75 with gradient 4.559042930603027 
+adding operator 76 with gradient 4.577003479003906 
+-7.5798426 -10.981123
+[[-7.5798426]]
+adding operator 77 with gradient 4.79104471206665 
+adding operator 75 with gradient 4.81629753112793 
+adding operator 76 with gradient 5.003870487213135 
+-6.269639 -10.981123
+[[-6.269639]]
+adding operator 77 with gradient 8.6035795211792 
+adding operator 75 with gradient 8.623570442199707 
+adding operator 76 with gradient 8.822906494140625 
+-8.006889 -10.981123
+[[-8.006889]]
+adding operator 76 with gradient 5.938751697540283 
+adding operator 75 with gradient 6.171065807342529 
+adding operator 77 with gradient 6.191923141479492 
+-9.57464 -10.981123
+[[-9.57464]]
+adding operator 76 with gradient 5.25591516494751 
+adding operator 75 with gradient 5.584673881530762 
+adding operator 77 with gradient 5.615935325622559 
+-9.409921 -10.981123
+[[-9.409921]]
+adding operator 74 with gradient 4.141871929168701 
+adding operator 66 with gradient 4.145320415496826 
+adding operator 68 with gradient 4.1479058265686035 
+-7.447178 -10.981123
+[[-7.447178]]
+adding operator 88 with gradient 2.7329330444335938 
+adding operator 77 with gradient 8.072389602661133 
+adding operator 75 with gradient 8.300346374511719 
+-7.581484 -10.981123
+[[-7.581484]]
+adding operator 76 with gradient 4.300603866577148 
+adding operator 77 with gradient 9.3112154006958 
+adding operator 75 with gradient 9.61300277709961 
+-8.373051 -10.981123
+[[-8.373051]]
+adding operator 67 with gradient 3.54958176612854 
+adding operator 72 with gradient 3.9643263816833496 
+adding operator 76 with gradient 9.245315551757812 
+-9.14325 -10.981123
+[[-9.14325]]
+adding operator 73 with gradient 3.8074631690979004 
+adding operator 75 with gradient 4.651439666748047 
+adding operator 76 with gradient 8.635993003845215 
+-8.638641 -10.981123
+[[-8.638641]]
+adding operator 77 with gradient 2.513622760772705 
+adding operator 75 with gradient 4.088962078094482 
+adding operator 76 with gradient 10.434861183166504 
+-9.29449 -10.981123
+[[-9.29449]]
+adding operator 73 with gradient 0.8243086338043213 
+adding operator 77 with gradient 3.5817620754241943 
+adding operator 76 with gradient 9.203418731689453 
+-8.82159 -10.981123
+[[-8.82159]]
+adding operator 75 with gradient 2.2595505714416504 
+adding operator 77 with gradient 5.970744609832764 
+adding operator 76 with gradient 8.802224159240723 
+-8.690525 -10.981123
+[[-8.690525]]
+adding operator 77 with gradient 1.4731910228729248 
+adding operator 75 with gradient 4.048379898071289 
+adding operator 76 with gradient 9.8170747756958 
+-9.14739 -10.981123
+[[-9.14739]]
+adding operator 77 with gradient 1.41880464553833 
+adding operator 75 with gradient 5.2249579429626465 
+adding operator 76 with gradient 8.437965393066406 
+-8.734233 -10.981123
+[[-8.734233]]
+adding operator 73 with gradient 1.0898245573043823 
+adding operator 77 with gradient 5.456942558288574 
+adding operator 76 with gradient 8.874192237854004 
+-8.746926 -10.981123
+[[-8.746926]]
+adding operator 74 with gradient 1.3658157587051392 
+adding operator 76 with gradient 2.54807710647583 
+adding operator 77 with gradient 10.36128044128418 
+-8.201549 -10.981123
+[[-8.201549]]
+adding operator 89 with gradient 1.8352798223495483 
+adding operator 77 with gradient 5.719272613525391 
+adding operator 75 with gradient 10.528851509094238 
+-9.847258 -10.981123
+[[-9.847258]]
+adding operator 89 with gradient 1.2155622243881226 
+adding operator 76 with gradient 3.6575896739959717 
+adding operator 75 with gradient 7.005819320678711 
