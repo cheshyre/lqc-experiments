@@ -1,0 +1,72 @@
+starting
+size pool  90
+starting
+-9.0
+adding operator 48 with gradient 0.0 
+adding operator 49 with gradient 0.0 
+adding operator 50 with gradient 0.0 
+-9.0 -9.0
+[[-9.]]
+adding operator 16 with gradient -3.9379236697232266e-17 
+adding operator 10 with gradient -6.45186531369724e-32 
+adding operator 9 with gradient -6.336309517034006e-32 
+-8.999914 -9.0
+[[-8.999914]]
+adding operator 48 with gradient -1.901388168334961e-05 
+adding operator 53 with gradient -1.901388168334961e-05 
+adding operator 17 with gradient -1.9251573936454592e-16 
+-8.999532 -9.0
+[[-8.999532]]
+adding operator 17 with gradient -0.15240789949893951 
+adding operator 16 with gradient -0.10418419539928436 
+adding operator 53 with gradient -0.016941845417022705 
+-8.998387 -9.0
+[[-8.998387]]
+adding operator 48 with gradient -0.0005209445953369141 
+adding operator 49 with gradient -0.00038242340087890625 
+adding operator 14 with gradient -1.9510082260480313e-20 
+-8.999344 -9.0
+[[-8.999344]]
+adding operator 17 with gradient -0.20585393905639648 
+adding operator 16 with gradient -0.16933925449848175 
+adding operator 53 with gradient -0.02329540252685547 
+-8.998532 -9.000535
+[[-8.998532]]
+adding operator 15 with gradient -0.0002882947155740112 
+adding operator 14 with gradient -1.9801380801709456e-07 
+adding operator 82 with gradient -1.8518742095352536e-09 
+-9.042866 -9.042866
+[[-9.042866]]
+adding operator 17 with gradient -0.898419201374054 
+adding operator 16 with gradient -0.3713020980358124 
+adding operator 53 with gradient -0.09913027286529541 
+-9.232209 -9.232209
+[[-9.232209]]
+adding operator 17 with gradient -0.21888060867786407 
+adding operator 15 with gradient -0.08216738700866699 
+adding operator 16 with gradient -0.07367356866598129 
+-9.508684 -9.508684
+[[-9.508684]]
+adding operator 89 with gradient -0.8793135285377502 
+adding operator 16 with gradient -0.6215763092041016 
+adding operator 48 with gradient -0.055406272411346436 
+-9.582948 -9.582948
+[[-9.582948]]
+adding operator 88 with gradient -0.36826464533805847 
+adding operator 87 with gradient -0.22246529161930084 
+adding operator 83 with gradient -2.713161302381195e-05 
+-9.584071 -9.587573
+[[-9.584071]]
+adding operator 17 with gradient -0.8892866373062134 
+adding operator 51 with gradient -0.21129202842712402 
+adding operator 49 with gradient -0.19495511054992676 
+-9.586201 -9.587573
+[[-9.586201]]
+adding operator 16 with gradient -0.6452186703681946 
+adding operator 87 with gradient -0.4549766182899475 
+adding operator 48 with gradient -0.09284859895706177 
+-9.603268 -9.605983
+[[-9.603268]]
+adding operator 17 with gradient -0.833784818649292 
+adding operator 88 with gradient -0.17403174936771393 
+adding operator 49 with gradient -0.15215811133384705 

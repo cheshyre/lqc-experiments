@@ -1,0 +1,11 @@
+starting
+size pool  90
+starting
+-9.0
+Adding all 90 operators -> VQE
+-10.982458 -10.982483
+[[-10.982458]]
+Adding all 90 operators -> VQE
+-11.230255 -11.230255
+[[-11.230255]]
+Adding all 90 operators -> VQE

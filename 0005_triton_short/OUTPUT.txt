@@ -40,3 +40,23 @@ adding operator 68 with gradient 0.1027667447924614
 adding operator 15 with gradient 0.040997546166181564 
 adding operator 16 with gradient 0.04101642221212387 
 adding operator 17 with gradient 0.041036248207092285 
+-11.087975 -11.087975
+[[-11.087975]]
+adding operator 54 with gradient 0.00853133387863636 
+adding operator 55 with gradient 0.008531634695827961 
+adding operator 56 with gradient 0.008531776256859303 
+-11.092434 -11.092434
+[[-11.092434]]
+adding operator 49 with gradient 0.00644901767373085 
+adding operator 50 with gradient 0.006450660526752472 
+adding operator 48 with gradient 0.006451246328651905 
+-11.096588 -11.096588
+[[-11.096588]]
+adding operator 16 with gradient 0.055573970079422 
+adding operator 15 with gradient 0.10255355387926102 
+adding operator 17 with gradient 0.15658143162727356 
+-11.1324215 -11.1324215
+[[-11.1324215]]
+adding operator 79 with gradient 0.0773092582821846 
+adding operator 78 with gradient 0.16564787924289703 
+adding operator 69 with gradient 0.1659015417098999 
