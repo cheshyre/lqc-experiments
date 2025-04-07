@@ -1,0 +1,42 @@
+starting
+size pool  90
+starting
+-9.0
+adding operator 87 with gradient 4.0 
+adding operator 88 with gradient 4.0 
+adding operator 89 with gradient 4.0 
+-9.666655 -9.666666
+[[-9.666655]]
+adding operator 84 with gradient 3.9495584964752197 
+adding operator 85 with gradient 3.9495584964752197 
+adding operator 86 with gradient 3.9495584964752197 
+-10.324885 -10.324897
+[[-10.324885]]
+adding operator 75 with gradient 3.9008588790893555 
+adding operator 76 with gradient 3.9008588790893555 
+adding operator 77 with gradient 3.9008588790893555 
+-10.974701 -10.974712
+[[-10.974701]]
+adding operator 15 with gradient 0.40138673782348633 
+adding operator 16 with gradient 0.40138673782348633 
+adding operator 17 with gradient 0.40138673782348633 
+-10.982085 -10.982085
+[[-10.982085]]
+adding operator 69 with gradient 0.10193002223968506 
+adding operator 70 with gradient 0.10193284600973129 
+adding operator 71 with gradient 0.10193520784378052 
+-11.01663 -11.016631
+[[-11.01663]]
+adding operator 78 with gradient 0.10656220465898514 
+adding operator 79 with gradient 0.10656221210956573 
+adding operator 80 with gradient 0.10656222701072693 
+-11.052387 -11.052388
+[[-11.052387]]
+adding operator 66 with gradient 0.1027662456035614 
+adding operator 67 with gradient 0.1027664840221405 
+adding operator 68 with gradient 0.1027667447924614 
+-11.087666 -11.0876665
+[[-11.087666]]
+adding operator 15 with gradient 0.040997546166181564 
+adding operator 16 with gradient 0.04101642221212387 
+adding operator 17 with gradient 0.041036248207092285 
