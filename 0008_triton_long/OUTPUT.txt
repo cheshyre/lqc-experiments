@@ -1,0 +1,65 @@
+starting
+size pool  90
+starting
+-9.0
+Adding all 3 operators -> VQE
+-9.666655 -9.666666
+[[-9.666655]]
+Adding all 3 operators -> VQE
+-10.324885 -10.324897
+[[-10.324885]]
+Adding all 3 operators -> VQE
+-10.974701 -10.974712
+[[-10.974701]]
+Adding all 3 operators -> VQE
+-10.982085 -10.982085
+[[-10.982085]]
+Adding all 3 operators -> VQE
+-11.01663 -11.016631
+[[-11.01663]]
+Adding all 3 operators -> VQE
+-11.052387 -11.052388
+[[-11.052387]]
+Adding all 3 operators -> VQE
+-11.087666 -11.0876665
+[[-11.087666]]
+Adding all 3 operators -> VQE
+-11.087975 -11.087975
+[[-11.087975]]
+Adding all 3 operators -> VQE
+-11.092434 -11.092434
+[[-11.092434]]
+Adding all 3 operators -> VQE
+-11.096588 -11.096588
+[[-11.096588]]
+Adding all 3 operators -> VQE
+-11.1324215 -11.1324215
+[[-11.1324215]]
+Adding all 3 operators -> VQE
+-11.179789 -11.179789
+[[-11.179789]]
+Adding all 3 operators -> VQE
+-11.23682 -11.23682
+[[-11.23682]]
+Adding all 3 operators -> VQE
+-11.248785 -11.248785
+[[-11.248785]]
+Adding all 3 operators -> VQE
+-11.255493 -11.255493
+[[-11.255493]]
+Adding all 3 operators -> VQE
+-11.252446 -11.255493
+[[-11.252446]]
+Adding all 3 operators -> VQE
+-11.257724 -11.257819
+[[-11.257724]]
+Adding all 3 operators -> VQE
+-11.258214 -11.258823
+[[-11.258214]]
+Adding all 3 operators -> VQE
+-11.255995 -11.259153
+[[-11.255995]]
+Adding all 3 operators -> VQE
+-11.259575 -11.259618
+[[-11.259575]]
+Adding all 3 operators -> VQE
