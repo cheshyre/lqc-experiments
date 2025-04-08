@@ -12,3 +12,6 @@ Adding all 90 operators -> VQE
 -11.301431 -11.301431
 [[-11.301431]]
 Adding all 90 operators -> VQE
+-11.338915 -11.338915
+[[-11.338915]]
+Adding all 90 operators -> VQE

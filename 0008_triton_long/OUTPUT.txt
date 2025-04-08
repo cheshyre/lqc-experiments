@@ -63,3 +63,18 @@ Adding all 3 operators -> VQE
 -11.259575 -11.259618
 [[-11.259575]]
 Adding all 3 operators -> VQE
+-11.256536 -11.259695
+[[-11.256536]]
+Adding all 3 operators -> VQE
+-11.25941 -11.259695
+[[-11.25941]]
+Adding all 3 operators -> VQE
+-11.259594 -11.260166
+[[-11.259594]]
+Adding all 3 operators -> VQE
+-11.259464 -11.260166
+[[-11.259464]]
+Adding all 3 operators -> VQE
+-11.259077 -11.260166
+[[-11.259077]]
+Adding all 3 operators -> VQE
