@@ -78,3 +78,66 @@ Adding all 3 operators -> VQE
 -11.259077 -11.260166
 [[-11.259077]]
 Adding all 3 operators -> VQE
+-11.260432 -11.260723
+[[-11.260432]]
+Adding all 3 operators -> VQE
+-11.258288 -11.260723
+[[-11.258288]]
+Adding all 3 operators -> VQE
+-11.259564 -11.260879
+[[-11.259564]]
+Adding all 3 operators -> VQE
+-11.260606 -11.261142
+[[-11.260606]]
+Adding all 3 operators -> VQE
+-11.260983 -11.261142
+[[-11.260983]]
+Adding all 3 operators -> VQE
+-11.260564 -11.261142
+[[-11.260564]]
+Adding all 3 operators -> VQE
+-11.259678 -11.261142
+[[-11.259678]]
+Adding all 3 operators -> VQE
+-11.25755 -11.261142
+[[-11.25755]]
+Adding all 3 operators -> VQE
+-11.258414 -11.261142
+[[-11.258414]]
+Adding all 3 operators -> VQE
+-11.2589855 -11.261142
+[[-11.2589855]]
+Adding all 3 operators -> VQE
+-11.259253 -11.261142
+[[-11.259253]]
+Adding all 3 operators -> VQE
+-11.258795 -11.261142
+[[-11.258795]]
+Adding all 3 operators -> VQE
+-11.257526 -11.261142
+[[-11.257526]]
+Adding all 3 operators -> VQE
+-11.260148 -11.261142
+[[-11.260148]]
+Adding all 3 operators -> VQE
+-11.255131 -11.261142
+[[-11.255131]]
+Adding all 3 operators -> VQE
+-11.257355 -11.261142
+[[-11.257355]]
+Adding all 3 operators -> VQE
+-11.258519 -11.261142
+[[-11.258519]]
+Adding all 3 operators -> VQE
+-11.256614 -11.261142
+[[-11.256614]]
+Adding all 3 operators -> VQE
+-11.256922 -11.261142
+[[-11.256922]]
+Adding all 3 operators -> VQE
+-11.253122 -11.261142
+[[-11.253122]]
+Adding all 3 operators -> VQE
+-11.25314 -11.261142
+[[-11.25314]]
+Adding all 3 operators -> VQE
